@@ -47,17 +47,6 @@ export default makeStyles({
   cardActions: {
     padding: '0 16px 8px 16px',
     display: 'flex',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
   },
-  liked: {
-    fontSize: '13px',
-    marginLeft: '5px',
-  },
-  wrap: {
-    margin: '10px',
-    marginLeft: '40px',
-  },
-  delete: {
-    marginBottom: '10px',
-  }
 });

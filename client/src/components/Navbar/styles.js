@@ -40,8 +40,4 @@ export default makeStyles((theme) => ({
     color: theme.palette.getContrastText(deepPurple[500]),
     backgroundColor: deepPurple[500],
   },
-  camera: {
-    fontSize: '50px',
-    color: '#1f70cf',
-  }
 }));
