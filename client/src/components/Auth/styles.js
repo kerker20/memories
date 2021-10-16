@@ -27,4 +27,9 @@ export default makeStyles((theme) => ({
   googleButton: {
     marginBottom: theme.spacing(2),
   },
+  validate: {
+    display: 'flex',
+    justifyContent: 'center',
+    marginLeft: '8px'
+  },
 }));
